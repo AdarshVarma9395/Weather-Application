@@ -5,3 +5,6 @@ class CityWeather(models.Model):
 
     def __str__(self):
         return self.name
+    
+
+# 3dbe66b1080011fc05328679ffa841f3

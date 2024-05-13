@@ -3,5 +3,5 @@ from .models import *
 
 class CityForm(ModelForm):
     class Meta:
-        models = CityWeather
+        model = CityWeather
         fields = '__all__'
